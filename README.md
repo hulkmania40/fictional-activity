@@ -2,8 +2,8 @@
 Wanna move your mouse endlessly. Run this python code so you are always shown as active
 
 Steps to run:
-# install python
-# run the below command in VS Code Terminal
- pip install PyAutoGUI
-# run the file by typing the below command 
- python move.py
+1) install python
+2) run the below command in VS Code Terminal
+	> pip install PyAutoGUI
+3) run the file by typing the below command 
+	> python move.py
